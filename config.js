@@ -14,18 +14,19 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;5rgSlIhZ#5FbPq7BlnRkgdmMiS3JaPXhivAvktKhN-bbdTrSUsa0
+' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://pawan_vvo1_user:trFxU7FvfN1YmO51k8dxdOuBzepRiCvg@dpg-ckklkhe6fcos73bo0bng-a.frankfurt-postgres.render.com/pawan_vvo1'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94722617699'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '📡SAVIYA📡'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,19 +42,19 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '🇱🇰⃝✥⃟SAVIYA-MD☺️᭄ OFFICIAL BOT ✊'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = '🇱🇰⃝✥⃟SAVIYA-MD☺️᭄ OFFICIAL BOT ✊'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@MR SAVIYA 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '🔰👻SAVIYA-MD👻🔰' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -67,7 +68,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false
 
 global.ONLY_GROUP = 'false' // Only group mode
 
