@@ -57,7 +57,7 @@ global.CAPTION = '🔰👻SAVIYA-MD👻🔰' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'HI' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
