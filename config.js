@@ -90,5 +90,5 @@ global.VOICE_REPLY = true
 /* V card */
 
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: saviyamd2009" //ur github or insta name
+global.socialm = "GitHub: saviya2009" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
